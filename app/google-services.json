@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "590387689659",
+    "project_id": "edulink-f5059",
+    "storage_bucket": "edulink-f5059.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590387689659:android:6aa7bb06de3cfd3a42519e",
+        "android_client_info": {
+          "package_name": "com.edulink.Android_App_Book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590387689659-2j9a80t5ofsn2olvl3krpuihj0kg8lnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDClSjY0YfU9uoqgZDEjP4BJ2Qwi_J4KM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590387689659-2j9a80t5ofsn2olvl3krpuihj0kg8lnf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
